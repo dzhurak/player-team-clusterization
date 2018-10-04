@@ -1,0 +1,14 @@
+Cython==0.28.5
+filterpy==1.2.1
+lightgbm==2.1.2
+matplotlib==2.2.3
+numpy==1.15.1
+opencv-python==3.4.2.17
+opencv-contrib-python==3.4.2.17
+pandas==0.23.4
+Pillow==5.2.0
+pyclustering==0.8.1
+PyYAML==3.13
+scikit-learn==0.19.2
+scipy==1.1.0
+torch==0.4.1
