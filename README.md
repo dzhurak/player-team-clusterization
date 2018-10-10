@@ -1,4 +1,13 @@
 # Workshop: Person Classification in Sports
+![Team-clusterization](extras/tracking_2.jpg)
+
+This workshop aims to show:
+- efficient techniques for image representation to keep maximum information about color distribution,
+- which clusterizations methods are optimal for person group identification, why some methods work better than 
+the others on images of football players,
+- exotic metrics which allow to achieve better clusterization accuracy,
+- types of Neural Networks with specific loss functions which are the most suitable for person image representation,
+- how incremental learning can help to solve clusterization task on long video streams.
 
 #### Pre-requirements
 
