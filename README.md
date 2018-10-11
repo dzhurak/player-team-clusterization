@@ -1,5 +1,5 @@
 # Workshop: Person Classification in Sports
-![Team-clusterization](extras/tracking_2.jpg)
+![Team-clusterization](slides/tracking_2.jpg)
 
 This workshop aims to show:
 - efficient techniques for image representation to keep maximum information about color distribution,
