@@ -2,6 +2,7 @@ Cython==0.28.5
 filterpy==1.2.1
 lightgbm==2.1.2
 matplotlib==2.2.3
+minisom==2.1.4
 numpy==1.15.1
 opencv-python==3.4.2.17
 opencv-contrib-python==3.4.2.17
